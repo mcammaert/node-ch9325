@@ -1,0 +1,26 @@
+{
+  "name": "node-ch9325",
+  "version": "0.0.1",
+  "description": "Access the WCH CH9325 trough NodeJS",
+  "main": "ch9325.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcammaert/node-ch9325.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "WHC",
+    "CH9325",
+    "usb",
+    "serial"
+  ],
+  "author": "Manu Cammaert <manu@cammaert.eu>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mcammaert/node-ch9325/issues"
+  },
+  "homepage": "https://github.com/mcammaert/node-ch9325#readme"
+}
