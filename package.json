@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/mcammaert/node-ch9325/issues"
   },
-  "homepage": "https://github.com/mcammaert/node-ch9325#readme"
+  "homepage": "https://github.com/mcammaert/node-ch9325#readme",
+  "dependencies": {
+    "node-hid": "^0.5.4"
+  }
 }
